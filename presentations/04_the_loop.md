@@ -31,4 +31,4 @@ demo_card.html
 ### rows
 demo_full_row.html
 
-<iframe src="/demos/demo_full_row.html" width="800" height="500"></iframe>
+<iframe src="demos/demo_full_row.html" width="800" height="500"></iframe>
