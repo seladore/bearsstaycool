@@ -1,45 +1,70 @@
 
-## Web Dev Basics
+## web dev basics
 
 ----
 
-### Website
-- the Loop (HTML + CSS)
-- images
-- tracking code
+### building blocks
+* HTML
+  - tracking code
+  - images
+* CSS (the loop)
 
 ----
 
-### HTML Structure
+### html structure
+_element, tags, attributes, name, value_
+```html
+<element name="value"></element>
+<h1>My First Heading</h1>
+<p class="headers">My first paragraph.</p>
+<p id="main-header">My first paragraph.</p>
+```
 
 ----
 
-### CSS Structure
+### css structure
+_selector, declaration, property, value_
+```css
+selector {
+  property: "value";
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.headers {
+    text-align: center;
+    color: red;
+}
+
+#main-header {
+    text-align: center;
+    color: red;
+}
+```
 
 ----
 
-### HTML & CSS Demo
+### html & css demo
+open /demo_1.html
+<https://www.w3schools.com/html/tryit.asp?filename=tryhtml_css_internal>
+
+----
+
+### bootstrap demo
+open /demo_2.html
 <https://codepen.io/freeCodeCamp/pen/NNvBQW>
-
-----
-
-### Bootstrap Demo
 <https://codepen.io/freeCodeCamp/pen/mJNqQj>
 
 ----
 
-### Tracking Code (cont.)
+### tracking code (cont.)
+
 1. wrap the implementation from the previous slide into a `<script>` tag
-
 2. include linked javascript in `<head>`
-
-<!-- <pre><code class="hljs">
-<script src="//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-efd6120a6f6ed94da49cf49e2ba626ac110c7e3c-staging.js"></script>
-
-<script src="//assets.adobedtm.com/572ee9d70241b5c796ae15c773eaaee4365408ec/satelliteLib-efd6120a6f6ed94da49cf49e2ba626ac110c7e3c.js"></script>
-</code></pre> -->
-
 3. add the html below after the `<footer>`
+
 ```html
 <script type="text/javascript">
   _satellite.pageBottom();
@@ -48,7 +73,7 @@
 
 ----
 
-### Tracking Code
+### tracking code
 Review more from their guidelines PowerPoint, basic implementation is below
 ```javascript
 var wbgData = wbgData || {};
