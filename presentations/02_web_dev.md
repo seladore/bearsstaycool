@@ -47,14 +47,14 @@ h1 {
 ----
 
 ### html & css demo
-open /demo_1.html
+open /demos/demo_1.html
 and paste the html in here
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
 ----
 
 ### bootstrap demo
-open /demo_2.html
+open /demos/demo_2.html
 and paste the html in here
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
