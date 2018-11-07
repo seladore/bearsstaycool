@@ -1,7 +1,7 @@
 /**
  * 'Pike Street' theme for reveal.js.
  *
- * Copyright (C) 2015 Felix Rieseberg, http://felixrieseberg.com
+ * Copyright (C) 2015 Felix Rieseberg, https://felixrieseberg.com
  */
 @font-face {
   font-family: 'Open Sans';
@@ -31,7 +31,7 @@
   font-family: 'Pacifico';
   font-weight: 400;
   font-style: normal;
-  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(http://fonts.gstatic.com/s/pacifico/v7/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');
+  src: local('Pacifico Regular'), local('Pacifico-Regular'), url(https://fonts.gstatic.com/s/pacifico/v7/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');
   unicode-range: U0 -0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
 
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
