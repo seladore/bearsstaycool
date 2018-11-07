@@ -48,57 +48,18 @@ h1 {
 
 ### html & css demo
 open /demo_1.html
-<https://www.w3schools.com/html/tryit.asp?filename=tryhtml_css_internal>
+and paste the html in here
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
 ----
 
 ### bootstrap demo
 open /demo_2.html
-<https://codepen.io/freeCodeCamp/pen/NNvBQW>
-<https://codepen.io/freeCodeCamp/pen/mJNqQj>
+and paste the html in here
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
 ----
 
-### tracking code (cont.)
-
-1. wrap the implementation from the previous slide into a `<script>` tag
-2. include linked javascript in `<head>`
-3. add the html below after the `<footer>`
-
-```html
-<script type="text/javascript">
-  _satellite.pageBottom();
-</script>
-```
-
-----
-
-### tracking code
-Review more from their guidelines PowerPoint, basic implementation is below
-```javascript
-var wbgData = wbgData || {};
-wbgData.page = {
-  pageInfo: {
-      pageName: "en:wdi:home", //clean, descriptive, unique page name
-      pageCategory: "home", //home, content page, list
-      contentType: "Homepage", //About, Homepage, Stories, Topic, Other
-      channel: "DEC waw EXT" //DEC(vpu/gp) site name EXT
-    }
-},
-wbgData.site = {
-  siteInfo: {
-      siteLanguage: "en", //use ISO-2
-      siteType: "waw", //site's sub-domain
-      siteEnv: "prod" //prod (for production), qa
-  },
-  techInfo: {
-      cmsType: "sharepoint", //sharepoint, aem, drupal, etc.
-      bussVPUnit: "dec",
-      bussUnit: "decdg",
-      bussUserGroup: "external", // internal or external site
-      bussAgency: "ibrd"
-  }
-}
-```
-
-----
+### test responsiveness
+* web developer chrome extension
+* inspect element
