@@ -22,32 +22,13 @@
 
 ----
 
-### 1. wrangle data
+### junk drawer
 
-* use iso3c and economies (beware of using country name)
+* use iso3c and economies (not "countries")
   - fyi, countrycode package does not use Bank economy names
-
-----
-
-### 2. format data for visualizations
-
-* code should read from output of initial data cleaning
 * data should be in long format for Tableau and ggplot
-* check for economy name accents, etc.
-
-----
-
-### 3. generate visualizations
-
-* [wbgviz](https://github.com/worldbank/wbgviz) has functions to create different charts
-  - `wbg_choropleth()`for maps
-  - FYI: use pdf output until bug is fixed
-* examples in the [sdgatlas](https://github.com/worldbank/sdgatlas2018) repo
-* tableau access
-
-----
-
-### 4. create website
-
+* code should read from output of initial data cleaning for additional formatting scripts
+* you can use wbgviz to build visualizations
+  - `wbg_choropleth()`for maps, FYI: use pdf output until bug is fixed
+  - examples in the [sdgatlas](https://github.com/worldbank/sdgatlas2018) repo
 * remember to include analytics code
-  - qa and production have different analytics codes

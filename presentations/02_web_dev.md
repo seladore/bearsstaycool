@@ -4,14 +4,15 @@
 ----
 
 ### building blocks
-* HTML
+1. HTML
   - tracking code
   - images
-* CSS (the loop)
+2. CSS (the loop)
+3. testing
 
 ----
 
-### html structure
+### 1. html
 _element, tags, attributes, name, value_
 ```html
 <element name="value"></element>
@@ -22,7 +23,7 @@ _element, tags, attributes, name, value_
 
 ----
 
-### css structure
+### 2. css
 _selector, declaration, property, value_
 ```css
 selector {
@@ -60,6 +61,6 @@ https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default
 
 ----
 
-### test responsiveness
+### 3. test responsiveness
 * web developer chrome extension
 * inspect element
