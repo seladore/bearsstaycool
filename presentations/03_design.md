@@ -150,6 +150,7 @@ use intuition to compensate for optical difference
 
 ### inspiration
 * structure/identity
+  - https://explorepartsunknown.com/
   - https://www.nationalgeographic.org/explorers/
   - https://ueno.co/work/slack
 * ux
