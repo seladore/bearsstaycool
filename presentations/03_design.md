@@ -62,6 +62,7 @@ _see hefpi cards_
 ----
 
 ### gestalt theory
+_western gaze_
 <https://medium.muz.li/gestalt-principles-in-ui-design-6b75a41e9965>
 
 1. similarity
@@ -107,12 +108,20 @@ _notice the text grouping, even without grids_
 
 ----
 
-TODO: add examples of the remaining guidelines
-
+### 4. continuity
+![continuity](http://res.cloudinary.com/dno0vkynk/image/upload/v1475392871/DesignGestaltContinuity.png)
 
 ----
 
+_with common fate_
+<iframe src="https://ueno.co/" width="900" height="600"></iframe>
 
+----
+
+### 5. closure
+![closure](https://cdn-images-1.medium.com/max/800/1*n8LiAFjR9hqiPIix8qaf2A.gif)
+
+----
 
 Check out <https://lawsofux.com/> for more guidelines
 
