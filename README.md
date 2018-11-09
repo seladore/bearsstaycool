@@ -1,2 +1,4 @@
 # bearsstaycool
-test presentation
+
+presentation: <https://seladore.github.io/bearsstaycool/>
+demos: <https://seladore.github.io/bearsstaycool/demos/>
