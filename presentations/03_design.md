@@ -114,7 +114,7 @@ _notice the text grouping, even without grids_
 ----
 
 _with common fate_
-<iframe src="https://ueno.co/" width="900" height="600"></iframe>
+![nike](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28c84eb7-47c2-4363-b28d-8c39e0290c02/03-continuation-nike-opt.jpg)
 
 ----
 
