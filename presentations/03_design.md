@@ -37,11 +37,11 @@
 ----
 
 ### color theory
-![color wheel](http://operationwritehome.org/wp-content/uploads/2013/01/warm-and-cool.jpg)
+![color wheel](https://operationwritehome.org/wp-content/uploads/2013/01/warm-and-cool.jpg)
 
 ----
 
-![color categories](http://poissydesign.com/wp-content/uploads/2015/11/color-wheels.jpg)
+![color categories](https://poissydesign.com/wp-content/uploads/2015/11/color-wheels.jpg)
 
 ----
 
@@ -50,13 +50,13 @@
 ----
 
 ### wdi and color
-<iframe src="http://datatopics.worldbank.org/world-development-indicators/" width="900" height="600"></iframe>
+<iframe src="https://datatopics.worldbank.org/world-development-indicators/" width="900" height="600"></iframe>
 
 ----
 
 ### color and composition
 _see hefpi cards_
-<iframe src="http://datatopics.worldbank.org/health-equity-and-financial-protection/" width="900" height="600"></iframe>
+<iframe src="https://datatopics.worldbank.org/health-equity-and-financial-protection/" width="900" height="600"></iframe>
 
 
 ----
@@ -109,7 +109,7 @@ _notice the text grouping, even without grids_
 ----
 
 ### 4. continuity
-![continuity](http://res.cloudinary.com/dno0vkynk/image/upload/v1475392871/DesignGestaltContinuity.png)
+![continuity](https://res.cloudinary.com/dno0vkynk/image/upload/v1475392871/DesignGestaltContinuity.png)
 
 ----
 
