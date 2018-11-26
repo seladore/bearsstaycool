@@ -1,11 +1,10 @@
-# WEB DEV ISH
+# TEAM TONY
+## web dev essentials
 
 ----
 
 ### the series
 1. static site process
 2. web dev basics
-3. design theory
-4. the loop
-5. WDI specifics
-6. Tableau
+3. the loop
+4. design theory

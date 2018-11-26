@@ -1,14 +1,14 @@
 
-## web dev basics
+## web dev fundamentals
 
 ----
 
 ### building blocks
 1. HTML
   - tracking code
-  - images
 2. CSS (the loop)
-3. testing
+3. images
+4. testing
 
 ----
 
@@ -44,6 +44,11 @@ h1 {
     color: red;
 }
 ```
+
+----
+
+### 2. css (cont.)
+styles can live in-line, be embedded using a `<style>` tag in `<head>`, or live in an external style sheet
 
 ----
 
